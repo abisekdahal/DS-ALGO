@@ -1,4 +1,4 @@
-/* Dynamic Programming C/C++ implementation of Longest Common sub Sequence problem */
+/* Dynamic Programming Cimplementation of Longest Common sub Sequence problem */
 #include<bits/stdc++.h> 
    
 int max(int a, int b) 
