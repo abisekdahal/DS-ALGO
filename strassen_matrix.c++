@@ -13,11 +13,8 @@ int leafsize;
 
 using namespace std;
 
-/*
- * Implementation of the strassen algorithm, similar to 
- * http://en.wikipedia.org/w/index.php?title=Strassen_algorithm&oldid=498910018#Source_code_of_the_Strassen_algorithm_in_C_language
+/* refer to any tutorial of straseen matrix tutorial
  */
- 
 void strassen(vector< vector<int> > &A, 
               vector< vector<int> > &B, 
               vector< vector<int> > &C, unsigned int tam);
